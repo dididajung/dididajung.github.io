@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          DJ YOO
+description:    "Dajung Yoo's Blog"
 baseurl:        ""
 url:            "https://chesterhow.github.io"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Dajung Yoo
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        dajungvyoo@gmail.com
 
 # Build settings
 markdown:       kramdown

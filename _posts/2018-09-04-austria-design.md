@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Example Content"
-author: "Chester"
+title: "오스트리아 일상 디자인 속 섬세함"
+author: "유다정 Dajung Yoo"
+catalogue-sub: "오스트리아 빈의 공공 디자인 사례와 느낀점을 공유합니다."
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.

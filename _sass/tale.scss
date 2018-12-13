@@ -6,3 +6,32 @@
 @import 'tale/layout';
 @import 'tale/pagination';
 @import 'tale/catalogue';
+
+
+.nav {
+    background-image: linear-gradient(rgba(255,112,40,100), rgba(255,169,81,100));
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,0);
+}
+.nav-title {
+    color: #FFFFFF;
+    opacity: 1;
+}
+.nav a {
+    color: #FFFFFF;
+}
+
+.nav li {
+    opacity: 1;
+}
+
+.catalogue-title {
+    color: #4D5256;
+}
+
+.catalogue-item {
+    color: #4D5256;
+}
+.catalogue-sub {
+    font-size: 18px;
+    color: #90949a;
+}

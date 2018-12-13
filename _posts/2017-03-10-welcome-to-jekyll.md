@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-author: "Jekyll"
+title:  "서울 디자이너 강원도 체험기"
+author: "유다정 Dajung Yoo"
+catalogue-sub: "디자이너로서 첫 회사 생활을 정리하며 복기합니다."
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
